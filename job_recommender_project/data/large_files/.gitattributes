@@ -1,2 +1,3 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
 lf_large_jobs.pickle filter=lfs diff=lfs merge=lfs -text
+jobs_tokenized_lemmatized.pickle filter=lfs diff=lfs merge=lfs -text
